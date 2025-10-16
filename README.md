@@ -32,3 +32,8 @@ To install them:
 
 ```bash
 pip install -r requirements.txt
+```
+---
+## 🧾 License
+MIT License
+You are free to use, modify, and share under proper citation.
